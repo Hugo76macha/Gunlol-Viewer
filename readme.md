@@ -1,31 +1,32 @@
 # 🔫 Gunlol Viewer
 
-# Bienvenue dans **Gunlol Viewer** ! Un outil simple qui vous permet de générer des vues sur votre compte **Gunlol**. 🚀
+## Bienvenue dans **Gunlol Viewer** ! Un outil simple qui vous permet de générer des vues sur votre compte **Gunlol**. 🚀
 
-# ⚠️ Avertissement
+## ⚠️ Avertissement
 
-# ⚠️ Attention : L'utilisation de Gunlol Viewer peut entraîner des problèmes de connexion Internet. Utilisez-le à vos risques et périls.
+## ⚠️ Attention : L'utilisation de Gunlol Viewer peut entraîner des problèmes de connexion Internet. Utilisez-le à vos risques et périls.
 
-# 🎯 Fonctionnalité principale
+## 🎯 Fonctionnalité principale
 
-# 👁️ Génération de vues : Utilisez Gunlol Viewer pour augmenter les vues de votre profil Gunlol.
+## 👁️ Génération de vues : Utilisez Gunlol Viewer pour augmenter les vues de votre profil Gunlol.
 
-# 🚀 Installation
+## 🚀 Installation
 
 # 1. Télecharger ce repo
 
-# Installez les dépendances :
-#    ```bash
-#    npm install
-#    ```
+## 2. **Installez les Dépendances :**  
+```bash
+npm install
+```
 
 # 🛠️ Utilisation
 
 # Une fois l'installation terminée, lancez le projet avec :
 
-# ```bash
-# node .
-# ```
+###  
+```bash
+node .
+```
 
 # Ensuite, ouvrez ouvrez la console et entrez votre pseudo gunlol pour commencer à générer des vues sur votre compte ! 🌐
 
